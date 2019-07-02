@@ -1,2 +1,2 @@
 def reverse_each_word(sentence1)
-  arrary
+  arrary= sentence1.split
